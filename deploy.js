@@ -145,4 +145,8 @@ function sshConnect() {
     });
 }
 
+<<<<<<< HEAD
 main();
+=======
+main();
+>>>>>>> 0c788ad395ec9f9d744e7c8252792845c58f8a95
